@@ -1,10 +1,3 @@
 # Qomodo Help Center
 
-Knowledge base per due pubblici distinti:
-
-* [**Per gli esercenti**](gitbook-2/merchant/) — pagamenti, POS, team, filiali.
-* [**Per i clienti**](gitbook-2/consumer/) — capire e gestire il proprio pagamento con Qomodo.
-
-{% hint style="warning" %}
-Le due sezioni restano volutamente separate: linguaggio, esempi e livello di dettaglio sono diversi per esercenti e clienti finali, come da linee guida del team Product.
-{% endhint %}
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>Sono un esercente</td><td><a href="gitbook-2/merchant/">merchant</a></td></tr><tr><td>Sono un cliente</td><td><a href="gitbook-2/consumer/">consumer</a></td></tr></tbody></table>

@@ -1,9 +1,6 @@
 # Table of contents
 
 * [Qomodo Help Center](../)
-* <button type="button" class="button primary" data-action="search" data-icon="magnifying-glass">Search…</button>
-
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Sono un esercente</td></tr><tr><td>Sono un cliente</td></tr></tbody></table>
 
 ## Esercenti
 
