@@ -14,3 +14,8 @@ icon: cart-shopping-fast
 ## Argomenti principali
 
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><a href="crea-pagamento-a-rate/">Crea un pagamento a rate</a> — Configurare e gestire il BNPL</td></tr><tr><td><a href="crea-pagamento-immediato/">Crea un pagamento immediato</a> — Paga ora — POS o telefono</td></tr><tr><td><a href="gestisci-pos/">Gestisci il tuo POS</a> — Attivare, rinominare, risolvere problemi</td></tr><tr><td><a href="team-e-permessi/">Gestisci team e permessi</a> — Ruoli Manager, Pro, Base</td></tr><tr><td><a href="gestisci-filiali/">Gestisci le filiali</a> — Attivazione e disattivazione punti vendita</td></tr><tr><td><a href="stati-pagamento/">Monitora gli stati pagamento</a> — Cosa significa ogni stato</td></tr></tbody></table>
+
+## Non trovi quello che stai cercando?
+
+[..](../../ "mention")
+
