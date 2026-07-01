@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Qomodo Help Center](README.md)
-* [Table of contents](gitbook-2/SUMMARY.md)
 * [Per i clienti](gitbook-2/consumer/README.md)
   * [Confermare un pagamento a rate](gitbook-2/consumer/confermare-pagamento-a-rate/README.md)
     * [Posso cambiare il numero di rate dopo aver confermato?](gitbook-2/consumer/confermare-pagamento-a-rate/cambiare-numero-rate.md)
