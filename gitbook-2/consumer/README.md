@@ -2,16 +2,12 @@
 
 Le risposte più semplici per capire come funziona il tuo pagamento con Qomodo.
 
+<button type="button" class="button primary" data-action="search" data-icon="magnifying-glass">Search…</button>
+
 ## Novità
 
-* **12 giu 2026** — [Spiegazione più semplice di "Attesa carta"](controllare-le-mie-rate/attesa-carta.md) — Chiarito cosa fare quando manca questo passaggio nel piano di pagamento.
-* **28 mag 2026** — [Nuovo articolo: i miei dati e la privacy](gestire-i-miei-dati/dati-carta-negozio.md) — Come Qomodo protegge le informazioni condivise con il negozio.
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>12 giu 2026</strong> — <a href="controllare-le-mie-rate/attesa-carta.md">Spiegazione più semplice di "Attesa carta"</a> — Chiarito cosa fare quando manca questo passaggio nel piano di pagamento.</td></tr><tr><td><strong>28 mag 2026</strong> — <a href="gestire-i-miei-dati/dati-carta-negozio.md">Nuovo articolo: i miei dati e la privacy</a> — Come Qomodo protegge le informazioni condivise con il negozio.</td></tr></tbody></table>
 
 ## Flussi principali
 
-* [Confermare un pagamento a rate](confermare-pagamento-a-rate/README.md) — Come funziona il piano di pagamento
-* [Pagare subito](pagare-subito/README.md) — In negozio o dal telefono
-* [Controllare le mie rate](controllare-le-mie-rate/README.md) — Scadenze e importi
-* [Risolvere un problema](risolvere-un-problema/README.md) — Cosa fare se qualcosa non va
-* [Gestire i miei dati](gestire-i-miei-dati/README.md) — Come vengono usati e protetti
-* [Contattare l'assistenza](contattare-assistenza/README.md) — Parlare con una persona
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><a href="confermare-pagamento-a-rate/">Confermare un pagamento a rate</a> — Come funziona il piano di pagamento</td></tr><tr><td><a href="pagare-subito/">Pagare subito</a> — In negozio o dal telefono</td></tr><tr><td><a href="controllare-le-mie-rate/">Controllare le mie rate</a> — Scadenze e importi</td></tr><tr><td><a href="risolvere-un-problema/">Risolvere un problema</a> — Cosa fare se qualcosa non va</td></tr><tr><td><a href="gestire-i-miei-dati/">Gestire i miei dati</a> — Come vengono usati e protetti</td></tr><tr><td><a href="contattare-assistenza/">Contattare l'assistenza</a> — Parlare con una persona</td></tr></tbody></table>
