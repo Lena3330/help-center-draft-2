@@ -8,7 +8,7 @@ description: Tutto quello che serve per capire pagamenti, POS, team e filiali su
 
 ## Novità
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="./#novita">#novita</a></td></tr><tr><td></td><td><a href="./#novita">#novita</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>12 giu 2026</strong> — <a href="stati-pagamento/valutazione-in-corso.md">Stati "Fallita" e "Cancellata" ora distinti</a> — Chiarita la differenza tra addebito fallito e richiesta cancellata dal cliente.</td><td><a href="./#novita">#novita</a></td></tr><tr><td><strong>02 giu 2026</strong> — <a href="gestisci-pos/pos-offline.md">Guida POS offline aggiornata</a> — Passaggi rivisti per una risoluzione più rapida dei problemi di rete.</td><td><a href="./#novita">#novita</a></td></tr></tbody></table>
 
 * **12 giu 2026** — [Stati "Fallita" e "Cancellata" ora distinti](stati-pagamento/valutazione-in-corso.md) — Chiarita la differenza tra addebito fallito e richiesta cancellata dal cliente.
 * **02 giu 2026** — [Guida POS offline aggiornata](gestisci-pos/pos-offline.md) — Passaggi rivisti per una risoluzione più rapida dei problemi di rete.
