@@ -1,5 +1,6 @@
 ---
 description: Tutto quello che serve per capire pagamenti, POS, team e filiali su Qomodo.
+icon: cart-shopping-fast
 ---
 
 # Per gli esercenti
